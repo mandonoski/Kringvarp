@@ -1,0 +1,1278 @@
+TWowazaTabs
+v7
+r0
+t328438100.592503
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Kringvarp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Info.plist" WowazaTabs-Info.plist
+cCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib"
+cCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib"
+cCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib"
+cCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib"
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/07-map-marker.png" 07-map-marker.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/194-note-2.png" 194-note-2.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/45-movie-1.png" 45-movie-1.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.png" ThirdView.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/pause.png" pause.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play.png" play.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play_hi.png" play_hi.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMax.png" soundMax.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMin.png" soundMin.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo.png" globiLogo.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_60.png" info_60.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_20.png" info_20.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_30.png" info_30.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Background.png" Background.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Default.png" Default.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/slideBackground.png" slideBackground.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/navigationBackground.png" navigationBackground.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png" nowPlayingBG.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png" globiLogo_small.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Icon.png" Icon.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_114x114.png" icon_114x114.png
+cCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_512x512.png" icon_512x512.png
+cCpResource build/Debug-iphoneos/Kringvarp.app/iTunesArtwork iTunesArtwork
+cProcessPCH /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch.gch WowazaTabs_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch.gch WowazaTabs_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/main.o "/Proekti/Kringvarp Versions/Kringvarp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/WowazaTabsAppDelegate.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/FirstViewController.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/SecondView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/ThirdView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/XPathQuery.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Reachability.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/main.o "/Proekti/Kringvarp Versions/Kringvarp/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/WowazaTabsAppDelegate.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/FirstViewController.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp" normal armv6
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/SecondView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/ThirdView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/XPathQuery.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Reachability.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp" normal armv7
+cCreateUniversalBinary "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp" normal "armv6 armv7"
+cGenerateDSYMFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app.dSYM" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp"
+cProcessProductPackaging "/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision"
+cTouch "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent"
+cCodeSign "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioSession.h
+c000000004CC11C24000000000000094C
+t1287724068
+s2380
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC247E70000000000000294
+t1287800807
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC2483E000000000038CF50
+t1287800894
+s3723088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10E3500000000001E1430
+t1287720501
+s1971248
+
+N/Proekti/Kringvarp Versions/Kringvarp/07-map-marker.png
+c000000004CB8444A0000000000000C3B
+t1287144522
+s3131
+
+N/Proekti/Kringvarp Versions/Kringvarp/194-note-2.png
+c000000004CBB89D00000000000000142
+t1287358928
+s322
+
+N/Proekti/Kringvarp Versions/Kringvarp/45-movie-1.png
+c000000004CB844600000000000000B4C
+t1287144544
+s2892
+
+N/Proekti/Kringvarp Versions/Kringvarp/Background.png
+c000000004D762C5E0000000000002AC8
+t1299590238
+s10952
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.h
+c000000004D79F17E0000000000000664
+t1299837310
+s1636
+i<UIKit/UIKit.h>
+i"WowazaTabsAppDelegate.h"
+i"MediaPlayer/MediaPlayer.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m
+c000000004DDA409F00000000000048E2
+t1306149023
+s18658
+i"FirstViewController.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m
+c000000004D7F3ADD000000000000239A
+t1300183773
+s9114
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.h
+c000000004D79F18300000000000005C5
+t1299837315
+s1477
+i<UIKit/UIKit.h>
+i"WowazaTabsAppDelegate.h"
+i"MediaPlayer/MediaPlayer.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m
+c000000004DDA45A00000000000005B3E
+t1306150304
+s23358
+i"SecondView.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib
+c000000004D79F2210000000000004E6F
+t1299837473
+s20079
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.h
+c000000004D3ED67600000000000000D2
+t1295963766
+s210
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m
+c000000004D5A4E8D000000000000050A
+t1297763981
+s1290
+i"ThirdView.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib
+c000000004D7A326A00000000000066A6
+t1299853930
+s26278
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.h
+c000000004D7A22B00000000000000647
+t1299849904
+s1607
+i<UIKit/UIKit.h>
+i"XPathQuery.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m
+c000000004DDA578F00000000000058F4
+t1306154895
+s22772
+i"AVFoundation/AVAudioSession.h"
+i"WowazaTabsAppDelegate.h"
+i"Reachability.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.h
+c0000000049FFCFDF000000000000026A
+t1241501663
+s618
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m
+c000000004AADDBFD000000000000144B
+t1252908029
+s5195
+i"XPathQuery.h"
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/HTMLparser.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Default.png
+c000000004D762DC7000000000000256C
+t1299590599
+s9580
+
+N/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib
+c000000004D79EA010000000000003A98
+t1299835393
+s15000
+
+N/Proekti/Kringvarp Versions/Kringvarp/Icon.png
+c000000004D7DDF4B0000000000000CF6
+t1300094795
+s3318
+
+N/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib
+c000000004D7DD6BD00000000000098A5
+t1300092605
+s39077
+
+N/Proekti/Kringvarp Versions/Kringvarp/ThirdView.png
+c000000004D417D420000000000006503
+t1296137538
+s25859
+
+N/Proekti/Kringvarp Versions/Kringvarp/WowazaTabs_Prefix.pch
+c000000004D3ED16C00000000000000BD
+t1295962476
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app
+t1306745300
+s1224
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app.dSYM
+t1306745300
+s102
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/07-map-marker.png
+t1306745297
+s3356
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/194-note-2.png
+t1306745297
+s476
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/45-movie-1.png
+t1306745297
+s2975
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Background.png
+t1306745298
+s10596
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Default.png
+t1306745297
+s10236
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/FirstView.nib
+t1306745297
+s764
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Icon.png
+t1306745298
+s3485
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Info.plist
+t1306745297
+s1156
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp
+t1306745300
+s235072
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/MainWindow.nib
+t1306745297
+s2092
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/PkgInfo
+t1306745297
+s8
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ResourceRules.plist
+t1306745297
+s485
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/SecondView.nib
+t1306745297
+s898
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.nib
+t1306745297
+s2173
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.png
+t1306745297
+s31682
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision
+t1306745300
+s7509
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo.png
+t1306745297
+s17105
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png
+t1306745298
+s5990
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/iTunesArtwork
+t1306745298
+s23859
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_114x114.png
+t1306745298
+s6361
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_512x512.png
+t1306745298
+s26167
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_20.png
+t1306745297
+s3094
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_30.png
+t1306745297
+s3260
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_60.png
+t1306745297
+s3925
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/navigationBackground.png
+t1306745297
+s8683
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png
+t1306745298
+s1612
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/pause.png
+t1306745297
+s3452
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play.png
+t1306745297
+s1126
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play_hi.png
+t1306745297
+s4108
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/slideBackground.png
+t1306745297
+s4594
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMax.png
+t1306745297
+s2208
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMin.png
+t1306745297
+s1602
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent
+t1306745300
+s416
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/FirstViewController.o
+t1306745299
+s113264
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp
+t1306745299
+s116428
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp.LinkFileList
+c000000004DE359D10000000000000388
+t1306745297
+s904
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Reachability.o
+t1306745299
+s22228
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/SecondView.o
+t1306745299
+s113132
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/ThirdView.o
+t1306745299
+s37836
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/WowazaTabsAppDelegate.o
+t1306745299
+s111604
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/XPathQuery.o
+t1306745299
+s20808
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/main.o
+t1306745298
+s6444
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/FirstViewController.o
+t1306745299
+s112284
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp
+t1306745300
+s112192
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp.LinkFileList
+c000000004DE359D10000000000000388
+t1306745297
+s904
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Reachability.o
+t1306745300
+s21832
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/SecondView.o
+t1306745299
+s112160
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/ThirdView.o
+t1306745299
+s37808
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/WowazaTabsAppDelegate.o
+t1306745299
+s110512
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/XPathQuery.o
+t1306745300
+s20536
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/main.o
+t1306745299
+s6428
+
+N/Proekti/Kringvarp Versions/Kringvarp/globiLogo.png
+c000000004D5BEB630000000000003CE9
+t1297869667
+s15593
+
+N/Proekti/Kringvarp Versions/Kringvarp/globiLogo_small.png
+c000000004D7A3236000000000000134C
+t1299853878
+s4940
+
+N/Proekti/Kringvarp Versions/Kringvarp/iTunesArtwork
+c000000004D7DE0480000000000005D33
+t1300095048
+s23859
+
+N/Proekti/Kringvarp Versions/Kringvarp/icon_114x114.png
+c000000004D7DDF380000000000001712
+t1300094776
+s5906
+
+N/Proekti/Kringvarp Versions/Kringvarp/icon_512x512.png
+c000000004D7DE0480000000000005D33
+t1300095048
+s23859
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_20.png
+c000000004C5972620000000000000BAB
+t1280930402
+s2987
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_30.png
+c000000004C5972640000000000000C23
+t1280930404
+s3107
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_60.png
+c000000004C5972680000000000000E1C
+t1280930408
+s3612
+
+N/Proekti/Kringvarp Versions/Kringvarp/main.m
+c000000004D3ED16C0000000000000161
+t1295962476
+s353
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/navigationBackground.png
+c000000004D76323C0000000000001EF4
+t1299591740
+s7924
+
+N/Proekti/Kringvarp Versions/Kringvarp/nowPlayingBG.png
+c000000004D7634CB00000000000005CC
+t1299592395
+s1484
+
+N/Proekti/Kringvarp Versions/Kringvarp/pause.png
+c0000000049B6E5FE0000000000000C78
+t1236723198
+s3192
+
+N/Proekti/Kringvarp Versions/Kringvarp/play.png
+c0000000049B6E5FE000000000000043C
+t1236723198
+s1084
+
+N/Proekti/Kringvarp Versions/Kringvarp/play_hi.png
+c000000004935AE690000000000000E7E
+t1228254825
+s3710
+
+N/Proekti/Kringvarp Versions/Kringvarp/slideBackground.png
+c000000004D7631A100000000000015E1
+t1299591585
+s5601
+
+N/Proekti/Kringvarp Versions/Kringvarp/soundMax.png
+c000000004D4AB59900000000000005FF
+t1296741785
+s1535
+
+N/Proekti/Kringvarp Versions/Kringvarp/soundMin.png
+c000000004D4AB6C00000000000000522
+t1296742080
+s1314
+
+N/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision
+c000000004DA44FE60000000000001D55
+t1302613990
+s7509
+
+N/usr/include/libxml2/libxml/HTMLparser.h
+c000000004AB82E0D0000000000002401
+t1253584397
+s9217
+
+N/usr/include/libxml2/libxml/parser.h
+c000000004AB82E0D00000000000098A9
+t1253584397
+s39081
+
+N/usr/include/libxml2/libxml/tree.h
+c000000004AB82E0D0000000000008F14
+t1253584397
+s36628
+
+N/usr/include/libxml2/libxml/xpath.h
+c000000004AB82E0D0000000000003F47
+t1253584397
+s16199
+
+N/usr/include/libxml2/libxml/xpathInternals.h
+c000000004AB82E0D0000000000004BF8
+t1253584397
+s19448
+
+N/var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch.gch
+t1306143437
+s10467032
+
+N/var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch.gch
+t1306143436
+s10000088
+
+NWowazaTabs-Info.plist
+c000000004D8B09AA00000000000005A3
+t1300957610
+s1443
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328438097#328438097#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCodeSign "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"
+s328438100.316442
+e328438100.592356
+r1
+xCodeSign
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/Kringvarp.app328438100#328438100#0(0"0(0#0#72"/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app8648849792#670"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Regin W. Dalsgaard (YWG8RA3W62)" "--resource-rules=/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ResourceRules.plist" --entitlements "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/FirstViewController.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438098.157231
+e328438099.121384
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/FirstViewController.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController tableView:cellForRowAtIndexPath:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:154: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:158: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:163: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:168: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:173: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:178: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: 'FirstViewController' may not respond to '-getNowPlayingRow'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: (Messages without a matching method signature
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: will be assumed to return 'id' and accept
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: '...' as arguments.)
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController fireTimer:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:491: warning: local declaration of 'appDelegate' hides instance variable
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: At top level:
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: incomplete implementation of class 'FirstViewController'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-getNowPlayingIndex' not found
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-playButtonPressed:' not found
+lSLF07#2@75"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m328438098#328438099#0(3005"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController tableView:cellForRowAtIndexPath:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:154: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:158: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:163: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:168: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:173: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:178: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: 'FirstViewController' may not respond to '-getNowPlayingRow'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: (Messages without a matching method signature/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: will be assumed to return 'id' and accept/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: '...' as arguments.)/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController fireTimer:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:491: warning: local declaration of 'appDelegate' hides instance variable/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: At top level:/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: incomplete implementation of class 'FirstViewController'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-getNowPlayingIndex' not found/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-playButtonPressed:' not found15(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#140#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#154#0#154#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#313#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#158#0#158#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#486#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#163#0#163#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#659#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#168#0#168#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#832#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#173#0#173#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438098#1005#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#178#0#178#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@60"'FirstViewController' may not respond to '-getNowPlayingRow'328438098#1297#143#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#481#0#481#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328438098#1440#128#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#481#0#481#0#0"0(22@58"Local declaration of 'appDelegate' hides instance variable328438099#1913#141#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#491#0#491#0#0"0(23@13"At top level:328438099#2054#83#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#0#0#0#0#0"0(22@142"Property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#2137#225#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#0"0(22@149"Property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#2362#232#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#0"0(22@56"Incomplete implementation of class 'FirstViewController'328438099#2594#139#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-getNowPlayingIndex' not found328438099#2733#136#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#35"method definition for '*' not found0(22@53"Method definition for '-playButtonPressed:' not found328438099#2869#136#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#35"method definition for '*' not found0(0#0#67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m8646812928#1882"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/FirstViewController.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Reachability.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438099.121525
+e328438099.248933
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Reachability.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m328438099#328438099#0(0"0(0#0#60"/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m8647564736#1868"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Reachability.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/SecondView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438098.157990
+e328438099.174957
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/SecondView.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: incomplete implementation of class 'SecondView'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: method definition for '-playButtonPressed:' not found
+lSLF07#2@66"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m328438098#328438099#0(643"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: incomplete implementation of class 'SecondView'/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: method definition for '-playButtonPressed:' not found4(22@120"Property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#0#194#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#0"0(22@127"Property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#194#201#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#0"0(22@47"Incomplete implementation of class 'SecondView'328438099#395#121#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-playButtonPressed:' not found328438099#516#127#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#35"method definition for '*' not found0(0#0#58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m8645700896#1864"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/SecondView.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/ThirdView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438098.952736
+e328438099.023371
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/ThirdView.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m328438098#328438099#0(0"0(0#0#57"/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m8635672896#1862"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/ThirdView.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/WowazaTabsAppDelegate.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438098.156582
+e328438099.204562
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/WowazaTabsAppDelegate.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createArrays:objects:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:188: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:192: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: (Messages without a matching method signature
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: will be assumed to return 'id' and accept
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: '...' as arguments.)
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: comparison between pointer and integer
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:196: warning: unused variable 'tmp'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createVideosArray:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:313: warning: 'WowazaTabsAppDelegate' may not respond to '-getTomorrow'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:320: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:324: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: comparison between pointer and integer
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: At top level:
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: incomplete implementation of class 'WowazaTabsAppDelegate'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: method definition for '-loadURL:' not found
+lSLF07#2@77"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m328438098#328438099#0(2496"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createArrays:objects:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:188: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:192: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: (Messages without a matching method signature/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: will be assumed to return 'id' and accept/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: '...' as arguments.)/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: comparison between pointer and integer/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:196: warning: unused variable 'tmp'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createVideosArray:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:313: warning: 'WowazaTabsAppDelegate' may not respond to '-getTomorrow'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:320: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:324: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: comparison between pointer and integer/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: At top level:/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: incomplete implementation of class 'WowazaTabsAppDelegate'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: method definition for '-loadURL:' not found14(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438098#133#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#188#0#188#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438098#315#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#192#0#192#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@62"'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'328438098#497#147#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328438098#644#130#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#0"0(22@38"Comparison between pointer and integer328438098#1005#123#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#0"0(22@21"Unused variable 'tmp'328438098#1128#106#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#196#0#196#0#19"unused variable '*'0(22@57"'WowazaTabsAppDelegate' may not respond to '-getTomorrow'328438098#1364#142#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#313#0#313#0#26"'*' may not respond to '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438098#1506#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#320#0#320#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438098#1688#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#324#0#324#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@62"'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'328438098#1870#147#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#396#0#396#0#26"'*' may not respond to '*'0(22@38"Comparison between pointer and integer328438098#2017#123#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#396#0#396#0#0"0(23@13"At top level:328438099#2140#85#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#0#0#0#0#0"0(22@58"Incomplete implementation of class 'WowazaTabsAppDelegate'328438099#2225#143#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#782#0#782#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-loadURL:' not found328438099#2368#128#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#782#0#782#0#35"method definition for '*' not found0(0#0#69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m8647254656#1886"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/WowazaTabsAppDelegate.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/XPathQuery.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438099.023508
+e328438099.162923
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/XPathQuery.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m328438099#328438099#0(0"0(0#0#58"/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m8624890784#1864"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/XPathQuery.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/main.o "/Proekti/Kringvarp Versions/Kringvarp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328438098.155681
+e328438098.952557
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/main.o
+x/Proekti/Kringvarp Versions/Kringvarp/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Proekti/Kringvarp Versions/Kringvarp/main.m328438098#328438098#0(0"0(0#0#44"/Proekti/Kringvarp Versions/Kringvarp/main.m8648837504#1844"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv6" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/main.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/FirstViewController.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.204712
+e328438099.927159
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/FirstViewController.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController tableView:cellForRowAtIndexPath:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:154: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:158: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:163: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:168: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:173: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:178: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: 'FirstViewController' may not respond to '-getNowPlayingRow'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: (Messages without a matching method signature
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: will be assumed to return 'id' and accept
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: '...' as arguments.)
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController fireTimer:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:491: warning: local declaration of 'appDelegate' hides instance variable
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: At top level:
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: incomplete implementation of class 'FirstViewController'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-getNowPlayingIndex' not found
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-playButtonPressed:' not found
+lSLF07#2@75"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m328438099#328438099#0(3005"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController tableView:cellForRowAtIndexPath:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:154: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:158: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:163: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:168: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:173: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:178: warning: incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController viewDidLoad]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: 'FirstViewController' may not respond to '-getNowPlayingRow'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: (Messages without a matching method signature/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: will be assumed to return 'id' and accept/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:481: warning: '...' as arguments.)/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: In function '-[FirstViewController fireTimer:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:491: warning: local declaration of 'appDelegate' hides instance variable/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m: At top level:/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: incomplete implementation of class 'FirstViewController'/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-getNowPlayingIndex' not found/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m:583: warning: method definition for '-playButtonPressed:' not found15(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#140#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#154#0#154#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#313#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#158#0#158#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#486#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#163#0#163#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#659#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#168#0#168#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#832#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#173#0#173#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@90"Incompatible Objective-C types initializing 'struct UIView *', expected 'struct UILabel *'328438099#1005#173#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#178#0#178#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@60"'FirstViewController' may not respond to '-getNowPlayingRow'328438099#1297#143#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#481#0#481#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328438099#1440#128#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#481#0#481#0#0"0(22@58"Local declaration of 'appDelegate' hides instance variable328438099#1913#141#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#491#0#491#0#0"0(23@13"At top level:328438099#2054#83#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#0#0#0#0#0"0(22@142"Property 'currentPlayingPos' requires method '-currentPlayingPos' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#2137#225#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#0"0(22@149"Property 'currentPlayingPos' requires the method 'setCurrentPlayingPos:' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#2362#232#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#0"0(22@56"Incomplete implementation of class 'FirstViewController'328438099#2594#139#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-getNowPlayingIndex' not found328438099#2733#136#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#35"method definition for '*' not found0(22@53"Method definition for '-playButtonPressed:' not found328438099#2869#136#0(6@67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m327841823#583#0#583#0#35"method definition for '*' not found0(0#0#67"/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m8635330240#1882"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/FirstViewController.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Reachability.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.970952
+e328438100.057151
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Reachability.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m328438099#328438100#0(0"0(0#0#60"/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m8649388256#1868"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Reachability.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/SecondView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.762322
+e328438099.994591
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/SecondView.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: incomplete implementation of class 'SecondView'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: method definition for '-playButtonPressed:' not found
+lSLF07#2@66"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m328438099#328438099#0(643"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: incomplete implementation of class 'SecondView'/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m:664: warning: method definition for '-playButtonPressed:' not found4(22@120"Property 'loader' requires method '-loader' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#0#194#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#0"0(22@127"Property 'loader' requires the method 'setLoader:' to be defined - use @synthesize, @dynamic or provide a method implementation328438099#194#201#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#0"0(22@47"Incomplete implementation of class 'SecondView'328438099#395#121#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-playButtonPressed:' not found328438099#516#127#0(6@58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m327843104#664#0#664#0#35"method definition for '*' not found0(0#0#58"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m8625179168#1864"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/SecondView.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/ThirdView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.927302
+e328438099.999956
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/ThirdView.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m328438099#328438100#0(0"0(0#0#57"/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m8623656704#1862"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/ThirdView.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/WowazaTabsAppDelegate.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.175098
+e328438099.939312
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/WowazaTabsAppDelegate.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createArrays:objects:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:188: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:192: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: (Messages without a matching method signature
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: will be assumed to return 'id' and accept
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: '...' as arguments.)
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: comparison between pointer and integer
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:196: warning: unused variable 'tmp'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createVideosArray:]':
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:313: warning: 'WowazaTabsAppDelegate' may not respond to '-getTomorrow'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:320: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:324: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: comparison between pointer and integer
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: At top level:
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: incomplete implementation of class 'WowazaTabsAppDelegate'
+o/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: method definition for '-loadURL:' not found
+lSLF07#2@77"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m328438099#328438099#0(2496"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createArrays:objects:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:188: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:192: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: (Messages without a matching method signature/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: will be assumed to return 'id' and accept/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: '...' as arguments.)/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:199: warning: comparison between pointer and integer/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:196: warning: unused variable 'tmp'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: In function '-[WowazaTabsAppDelegate createVideosArray:]':/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:313: warning: 'WowazaTabsAppDelegate' may not respond to '-getTomorrow'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:320: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:324: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: 'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:396: warning: comparison between pointer and integer/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m: At top level:/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: incomplete implementation of class 'WowazaTabsAppDelegate'/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m:782: warning: method definition for '-loadURL:' not found14(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438099#133#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#188#0#188#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438099#315#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#192#0#192#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@62"'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'328438099#497#147#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)328438099#644#130#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#0"0(22@38"Comparison between pointer and integer328438099#1005#123#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#199#0#199#0#0"0(22@21"Unused variable 'tmp'328438099#1128#106#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#196#0#196#0#19"unused variable '*'0(22@57"'WowazaTabsAppDelegate' may not respond to '-getTomorrow'328438099#1364#142#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#313#0#313#0#26"'*' may not respond to '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438099#1506#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#320#0#320#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'328438099#1688#182#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#324#0#324#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@62"'WowazaTabsAppDelegate' may not respond to '-getTodayProgram:'328438099#1870#147#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#396#0#396#0#26"'*' may not respond to '*'0(22@38"Comparison between pointer and integer328438099#2017#123#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#396#0#396#0#0"0(23@13"At top level:328438099#2140#85#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#0#0#0#0#0"0(22@58"Incomplete implementation of class 'WowazaTabsAppDelegate'328438099#2225#143#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#782#0#782#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-loadURL:' not found328438099#2368#128#0(6@69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m327847695#782#0#782#0#35"method definition for '*' not found0(0#0#69"/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m8637596864#1886"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/WowazaTabsAppDelegate.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/XPathQuery.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.939455
+e328438100.042036
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/XPathQuery.o
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m328438099#328438100#0(0"0(0#0#58"/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m8621144416#1864"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/XPathQuery.o"0#
+
+CCompileC build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/main.o "/Proekti/Kringvarp Versions/Kringvarp/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328438099.163064
+e328438099.762199
+r1
+xCompileC
+xbuild/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/main.o
+x/Proekti/Kringvarp Versions/Kringvarp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Proekti/Kringvarp Versions/Kringvarp/main.m328438099#328438099#0(0"0(0#0#44"/Proekti/Kringvarp Versions/Kringvarp/main.m8645738528#1844"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-generated-files.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-own-target-headers.hmap" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-all-target-headers.hmap" -iquote "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp-project-headers.hmap" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-I/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/include" -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources/armv7" "-I/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/DerivedSources" -include /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch -c "/Proekti/Kringvarp Versions/Kringvarp/main.m" -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib"
+s328438097.300650
+e328438097.723159
+r1
+xCompileXIB
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib
+lSLF07#2@33"CompileXIB Classes/SecondView.xib328438097#328438097#0(0"0(0#0#60"/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib8604565312#555"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/SecondView.nib" "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib"
+s328438097.301129
+e328438097.805480
+r1
+xCompileXIB
+x/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib
+lSLF07#2@32"CompileXIB Classes/ThirdView.xib328438097#328438097#0(0"0(0#0#59"/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib8604455456#553"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.nib" "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib"
+s328438097.300179
+e328438097.675918
+r1
+xCompileXIB
+x/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib
+lSLF07#2@24"CompileXIB FirstView.xib328438097#328438097#0(0"0(0#0#51"/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib8605075584#545"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/FirstView.nib" "/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib"
+s328438097.299593
+e328438097.774525
+r1
+xCompileXIB
+x/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib:106: warning: 'Tab Bar Controller' has its 'NIB Name' property set to 'MainWindow.nib', but this view controller is not intended to have its view set in this manner.
+lSLF07#2@25"CompileXIB MainWindow.xib328438097#328438097#0(260"/* com.apple.ibtool.document.warnings *//Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib:106: warning: 'Tab Bar Controller' has its 'NIB Name' property set to 'MainWindow.nib', but this view controller is not intended to have its view set in this manner.1(22@151"'Tab Bar Controller' has its 'NIB Name' property set to 'MainWindow.nib', but this view controller is not intended to have its view set in this manner.328438097#18446744073709551615#0#0(6@52"/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib321785405#106#0#106#0#0"0(0#0#52"/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib8605237600#547"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/MainWindow.nib" "/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/07-map-marker.png" 07-map-marker.png
+s328438097.675999
+e328438097.719827
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/07-map-marker.png
+x07-map-marker.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/07-map-marker.png 07-map-marker.png328438097#328438097#0(0"0(0#0#55"/Proekti/Kringvarp Versions/Kringvarp/07-map-marker.png8317978561766518784#579"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/07-map-marker.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/07-map-marker.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/194-note-2.png" 194-note-2.png
+s328438097.719934
+e328438097.743267
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/194-note-2.png
+x194-note-2.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/194-note-2.png 194-note-2.png328438097#328438097#0(0"0(0#0#52"/Proekti/Kringvarp Versions/Kringvarp/194-note-2.png8649098368#573"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/194-note-2.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/194-note-2.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/45-movie-1.png" 45-movie-1.png
+s328438097.723285
+e328438097.748040
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/45-movie-1.png
+x45-movie-1.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/45-movie-1.png 45-movie-1.png328438097#328438097#0(0"0(0#0#52"/Proekti/Kringvarp Versions/Kringvarp/45-movie-1.png8649035424#573"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/45-movie-1.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/45-movie-1.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Background.png" Background.png
+s328438097.864497
+e328438098.058977
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Background.png
+xBackground.png
+lSLF07#2@76"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/Background.png Background.png328438097#328438098#0(0"0(0#0#52"/Proekti/Kringvarp Versions/Kringvarp/Background.png8635484384#573"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/Background.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Background.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Default.png" Default.png
+s328438097.883974
+e328438097.976069
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Default.png
+xDefault.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/Default.png Default.png328438097#328438097#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/Default.png8630777632#567"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/Default.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Default.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Icon.png" Icon.png
+s328438097.999481
+e328438098.047434
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Icon.png
+xIcon.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/Icon.png Icon.png328438097#328438098#0(0"0(0#0#46"/Proekti/Kringvarp Versions/Kringvarp/Icon.png8619773152#561"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/Icon.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Icon.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.png" ThirdView.png
+s328438097.743399
+e328438097.939661
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.png
+xThirdView.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/ThirdView.png ThirdView.png328438097#328438097#0(0"0(0#0#51"/Proekti/Kringvarp Versions/Kringvarp/ThirdView.png8648829504#571"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/ThirdView.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ThirdView.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo.png" globiLogo.png
+s328438097.832055
+e328438097.929400
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo.png
+xglobiLogo.png
+lSLF07#2@74"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/globiLogo.png globiLogo.png328438097#328438097#0(0"0(0#0#51"/Proekti/Kringvarp Versions/Kringvarp/globiLogo.png8644971232#571"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/globiLogo.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png" globiLogo_small.png
+s328438097.992379
+e328438098.038092
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png
+xglobiLogo_small.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png globiLogo_small.png328438097#328438098#0(0"0(0#0#57"/Proekti/Kringvarp Versions/Kringvarp/globiLogo_small.png8621064064#583"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/globiLogo_small.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/globiLogo_small.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_114x114.png" icon_114x114.png
+s328438098.010488
+e328438098.071083
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_114x114.png
+xicon_114x114.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/icon_114x114.png icon_114x114.png328438098#328438098#0(0"0(0#0#54"/Proekti/Kringvarp Versions/Kringvarp/icon_114x114.png8619284576#577"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/icon_114x114.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_114x114.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_512x512.png" icon_512x512.png
+s328438098.038209
+e328438098.155445
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_512x512.png
+xicon_512x512.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/icon_512x512.png icon_512x512.png328438098#328438098#0(0"0(0#0#54"/Proekti/Kringvarp Versions/Kringvarp/icon_512x512.png8649395136#577"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/icon_512x512.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/icon_512x512.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_20.png" info_20.png
+s328438097.835187
+e328438097.859949
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_20.png
+xinfo_20.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/info_20.png info_20.png328438097#328438097#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/info_20.png8637738016#567"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/info_20.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_20.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_30.png" info_30.png
+s328438097.860059
+e328438097.883859
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_30.png
+xinfo_30.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/info_30.png info_30.png328438097#328438097#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/info_30.png8636839328#567"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/info_30.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_30.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_60.png" info_60.png
+s328438097.833039
+e328438097.864398
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_60.png
+xinfo_60.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/info_60.png info_60.png328438097#328438097#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/info_60.png8644092128#567"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/info_60.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/info_60.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/navigationBackground.png" navigationBackground.png
+s328438097.939879
+e328438097.992261
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/navigationBackground.png
+xnavigationBackground.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/navigationBackground.png navigationBackground.png328438097#328438097#0(0"0(0#0#62"/Proekti/Kringvarp Versions/Kringvarp/navigationBackground.png8625559520#593"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/navigationBackground.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/navigationBackground.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png" nowPlayingBG.png
+s328438097.976184
+e328438098.010369
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png
+xnowPlayingBG.png
+lSLF07#2@80"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png nowPlayingBG.png328438097#328438098#0(0"0(0#0#54"/Proekti/Kringvarp Versions/Kringvarp/nowPlayingBG.png8622645920#577"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/nowPlayingBG.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/nowPlayingBG.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/pause.png" pause.png
+s328438097.748175
+e328438097.789469
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/pause.png
+xpause.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/pause.png pause.png328438097#328438097#0(0"0(0#0#47"/Proekti/Kringvarp Versions/Kringvarp/pause.png8647569792#563"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/pause.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/pause.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play.png" play.png
+s328438097.774640
+e328438097.797182
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play.png
+xplay.png
+lSLF07#2@64"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/play.png play.png328438097#328438097#0(0"0(0#0#46"/Proekti/Kringvarp Versions/Kringvarp/play.png8647088256#561"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/play.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play_hi.png" play_hi.png
+s328438097.789577
+e328438097.832959
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play_hi.png
+xplay_hi.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/play_hi.png play_hi.png328438097#328438097#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/play_hi.png8646880576#567"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/play_hi.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/play_hi.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/slideBackground.png" slideBackground.png
+s328438097.929511
+e328438097.999054
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/slideBackground.png
+xslideBackground.png
+lSLF07#2@86"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/slideBackground.png slideBackground.png328438097#328438097#0(0"0(0#0#57"/Proekti/Kringvarp Versions/Kringvarp/slideBackground.png8627581120#583"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/slideBackground.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/slideBackground.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMax.png" soundMax.png
+s328438097.797299
+e328438097.831936
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMax.png
+xsoundMax.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/soundMax.png soundMax.png328438097#328438097#0(0"0(0#0#50"/Proekti/Kringvarp Versions/Kringvarp/soundMax.png8646635840#569"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/soundMax.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMax.png"0#
+
+CCopyPNGFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMin.png" soundMin.png
+s328438097.805604
+e328438097.835082
+r1
+xCopyPNGFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMin.png
+xsoundMin.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/Kringvarp.app/soundMin.png soundMin.png328438097#328438097#0(0"0(0#0#50"/Proekti/Kringvarp Versions/Kringvarp/soundMin.png8645622208#569"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Proekti/Kringvarp Versions/Kringvarp/soundMin.png" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/soundMin.png"0#
+
+CCpResource build/Debug-iphoneos/Kringvarp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s328438097.263517
+e328438097.299530
+r1
+xCpResource
+xbuild/Debug-iphoneos/Kringvarp.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist328438097#328438097#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist7738436701976933376#498"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"0#
+
+CCpResource build/Debug-iphoneos/Kringvarp.app/iTunesArtwork iTunesArtwork
+s328438098.047543
+e328438098.053363
+r1
+xCpResource
+xbuild/Debug-iphoneos/Kringvarp.app/iTunesArtwork
+xiTunesArtwork
+lSLF07#2@18"Copy iTunesArtwork328438098#328438098#0(0"0(0#0#51"/Proekti/Kringvarp Versions/Kringvarp/iTunesArtwork8649212768#462"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Proekti/Kringvarp Versions/Kringvarp/iTunesArtwork" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"0#
+
+CCreateUniversalBinary "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp" normal "armv6 armv7"
+s328438100.197967
+e328438100.223333
+r1
+xCreateUniversalBinary
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/Kringvarp.app/Kringvarp normal "armv6 armv7"328438100#328438100#0(0"0(0#0#49"/Proekti/Kringvarp Versions/Kringvarp/armv6 armv78636420480#542"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp" "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp" -output "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp"0#
+
+CGenerateDSYMFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app.dSYM" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp"
+s328438100.223425
+e328438100.283947
+r1
+xGenerateDSYMFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app.dSYM
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/Kringvarp.app.dSYM build/Debug-iphoneos/Kringvarp.app/Kringvarp328438100#328438100#0(0"0(0#0#82"/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp8624891360#371"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Kringvarp" -o "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app.dSYM"0#
+
+CLd "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp" normal armv6
+s328438099.249061
+e328438099.970811
+r1
+xLd
+x/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp
+xnormal
+xarmv6
+lSLF07#2@128"Link /Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp328438099#328438099#0(0"0(0#0#0"8648959456#986"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" -filelist "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp.LinkFileList" -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -lxml2 -framework CFNetwork -framework SystemConfiguration -framework AVFoundation -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv6/Kringvarp"0#
+
+CLd "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp" normal armv7
+s328438100.057230
+e328438100.197885
+r1
+xLd
+x/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp
+xnormal
+xarmv7
+lSLF07#2@128"Link /Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp328438100#328438100#0(0"0(0#0#0"8647172352#986"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" "-F/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos" -filelist "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp.LinkFileList" -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -lxml2 -framework CFNetwork -framework SystemConfiguration -framework AVFoundation -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Objects-normal/armv7/Kringvarp"0#
+
+CProcessInfoPlistFile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Info.plist" WowazaTabs-Info.plist
+s328438097.281231
+e328438097.290139
+r1
+xProcessInfoPlistFile
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Info.plist
+xWowazaTabs-Info.plist
+lSLF07#2@29"Process WowazaTabs-Info.plist328438097#328438097#0(0"0(0#0#59"/Proekti/Kringvarp Versions/Kringvarp/WowazaTabs-Info.plist8596712960#575"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WowazaTabs-Info.plist -genpkginfo "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/ResourceRules.plist" -o "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/Info.plist"0#
+
+CProcessPCH /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-aedvkjhzrozsdheyhxslmdvemuhr/WowazaTabs_Prefix.pch.gch WowazaTabs_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-glqfdiifovqhsudqcrftorotofrd/WowazaTabs_Prefix.pch.gch WowazaTabs_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision" "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision"
+s328438100.284036
+e328438100.285147
+r1
+xProcessProductPackaging
+x/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision" build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision328438100#328438100#0(0"0(0#0#97"/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision8604127136#436"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/admirbeciragic/Library/MobileDevice/Provisioning Profiles/7172E9AD-E496-4CD1-9BF6-8733260054AD.mobileprovision" -o "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent"
+s328438100.310576
+e328438100.316387
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent328438100#328438100#0(0"0(0#0#108"/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent8596658400#442"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Debug-iphoneos/WowazaTabs.build/Kringvarp.xcent"0#
+
+CTouch "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"
+s328438100.285193
+e328438100.310455
+r1
+xTouch
+x/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app
+lSLF07#2@78"Touch /Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app328438100#328438100#0(0"0(0#0#0"8630474080#268"    cd "/Proekti/Kringvarp Versions/Kringvarp"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Proekti/Kringvarp Versions/Kringvarp/build/Debug-iphoneos/Kringvarp.app"0#
+

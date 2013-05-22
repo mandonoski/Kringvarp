@@ -1,0 +1,660 @@
+TWowazaTabs
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioSession.h
+c000000004CC12884000000000000094C
+t1287727236
+s2380
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC121E80000000000001A58
+t1287725544
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4770000000000000782
+t1286857847
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACA80000000000004F61
+t1287629992
+s20321
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Proekti/Kringvarp Versions/Kringvarp/07-map-marker.png
+c000000004CB8444A0000000000000C3B
+t1287144522
+s3131
+
+N/Proekti/Kringvarp Versions/Kringvarp/194-note-2.png
+c000000004CBB89D00000000000000142
+t1287358928
+s322
+
+N/Proekti/Kringvarp Versions/Kringvarp/45-movie-1.png
+c000000004CB844600000000000000B4C
+t1287144544
+s2892
+
+N/Proekti/Kringvarp Versions/Kringvarp/Background.png
+c000000004D762C5E0000000000002AC8
+t1299590238
+s10952
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.h
+c000000004D79F17E0000000000000664
+t1299837310
+s1636
+i<UIKit/UIKit.h>
+i"WowazaTabsAppDelegate.h"
+i"MediaPlayer/MediaPlayer.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m
+c000000004DDA409F00000000000048E2
+t1306149023
+s18658
+i"FirstViewController.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m
+c000000004D7F3ADD000000000000239A
+t1300183773
+s9114
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.h
+c000000004D79F18300000000000005C5
+t1299837315
+s1477
+i<UIKit/UIKit.h>
+i"WowazaTabsAppDelegate.h"
+i"MediaPlayer/MediaPlayer.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m
+c000000004DDA45A00000000000005B3E
+t1306150304
+s23358
+i"SecondView.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib
+c000000004D79F2210000000000004E6F
+t1299837473
+s20079
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.h
+c000000004D3ED67600000000000000D2
+t1295963766
+s210
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m
+c000000004D5A4E8D000000000000050A
+t1297763981
+s1290
+i"ThirdView.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib
+c000000004D7A326A00000000000066A6
+t1299853930
+s26278
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.h
+c000000004D7A22B00000000000000647
+t1299849904
+s1607
+i<UIKit/UIKit.h>
+i"XPathQuery.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m
+c000000004DDA578F00000000000058F4
+t1306154895
+s22772
+i"AVFoundation/AVAudioSession.h"
+i"WowazaTabsAppDelegate.h"
+i"Reachability.h"
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.h
+c0000000049FFCFDF000000000000026A
+t1241501663
+s618
+
+N/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m
+c000000004AADDBFD000000000000144B
+t1252908029
+s5195
+i"XPathQuery.h"
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/HTMLparser.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/Default.png
+c000000004D762DC7000000000000256C
+t1299590599
+s9580
+
+N/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib
+c000000004D79EA010000000000003A98
+t1299835393
+s15000
+
+N/Proekti/Kringvarp Versions/Kringvarp/Icon.png
+c000000004D7DDF4B0000000000000CF6
+t1300094795
+s3318
+
+N/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib
+c000000004D7DD6BD00000000000098A5
+t1300092605
+s39077
+
+N/Proekti/Kringvarp Versions/Kringvarp/ThirdView.png
+c000000004D417D420000000000006503
+t1296137538
+s25859
+
+N/Proekti/Kringvarp Versions/Kringvarp/WowazaTabs_Prefix.pch
+c000000004D3ED16C00000000000000BD
+t1295962476
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app.dSYM
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/07-map-marker.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/194-note-2.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/45-movie-1.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Background.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Default.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/FirstView.nib
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Icon.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Info.plist
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Kringvarp
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/MainWindow.nib
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/PkgInfo
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/SecondView.nib
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/ThirdView.nib
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/ThirdView.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/globiLogo.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/globiLogo_small.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/iTunesArtwork
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/icon_114x114.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/icon_512x512.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/info_20.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/info_30.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/info_60.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/navigationBackground.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/nowPlayingBG.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/pause.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/play.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/play_hi.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/slideBackground.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/soundMax.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/soundMin.png
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/Kringvarp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/Reachability.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/SecondView.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/ThirdView.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/WowazaTabsAppDelegate.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/XPathQuery.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Proekti/Kringvarp Versions/Kringvarp/globiLogo.png
+c000000004D5BEB630000000000003CE9
+t1297869667
+s15593
+
+N/Proekti/Kringvarp Versions/Kringvarp/globiLogo_small.png
+c000000004D7A3236000000000000134C
+t1299853878
+s4940
+
+N/Proekti/Kringvarp Versions/Kringvarp/iTunesArtwork
+c000000004D7DE0480000000000005D33
+t1300095048
+s23859
+
+N/Proekti/Kringvarp Versions/Kringvarp/icon_114x114.png
+c000000004D7DDF380000000000001712
+t1300094776
+s5906
+
+N/Proekti/Kringvarp Versions/Kringvarp/icon_512x512.png
+c000000004D7DE0480000000000005D33
+t1300095048
+s23859
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_20.png
+c000000004C5972620000000000000BAB
+t1280930402
+s2987
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_30.png
+c000000004C5972640000000000000C23
+t1280930404
+s3107
+
+N/Proekti/Kringvarp Versions/Kringvarp/info_60.png
+c000000004C5972680000000000000E1C
+t1280930408
+s3612
+
+N/Proekti/Kringvarp Versions/Kringvarp/main.m
+c000000004D3ED16C0000000000000161
+t1295962476
+s353
+i<UIKit/UIKit.h>
+
+N/Proekti/Kringvarp Versions/Kringvarp/navigationBackground.png
+c000000004D76323C0000000000001EF4
+t1299591740
+s7924
+
+N/Proekti/Kringvarp Versions/Kringvarp/nowPlayingBG.png
+c000000004D7634CB00000000000005CC
+t1299592395
+s1484
+
+N/Proekti/Kringvarp Versions/Kringvarp/pause.png
+c0000000049B6E5FE0000000000000C78
+t1236723198
+s3192
+
+N/Proekti/Kringvarp Versions/Kringvarp/play.png
+c0000000049B6E5FE000000000000043C
+t1236723198
+s1084
+
+N/Proekti/Kringvarp Versions/Kringvarp/play_hi.png
+c000000004935AE690000000000000E7E
+t1228254825
+s3710
+
+N/Proekti/Kringvarp Versions/Kringvarp/slideBackground.png
+c000000004D7631A100000000000015E1
+t1299591585
+s5601
+
+N/Proekti/Kringvarp Versions/Kringvarp/soundMax.png
+c000000004D4AB59900000000000005FF
+t1296741785
+s1535
+
+N/Proekti/Kringvarp Versions/Kringvarp/soundMin.png
+c000000004D4AB6C00000000000000522
+t1296742080
+s1314
+
+N/usr/include/libxml2/libxml/HTMLparser.h
+c000000004AB82E0D0000000000002401
+t1253584397
+s9217
+
+N/usr/include/libxml2/libxml/parser.h
+c000000004AB82E0D00000000000098A9
+t1253584397
+s39081
+
+N/usr/include/libxml2/libxml/tree.h
+c000000004AB82E0D0000000000008F14
+t1253584397
+s36628
+
+N/usr/include/libxml2/libxml/xpath.h
+c000000004AB82E0D0000000000003F47
+t1253584397
+s16199
+
+N/usr/include/libxml2/libxml/xpathInternals.h
+c000000004AB82E0D0000000000004BF8
+t1253584397
+s19448
+
+N/var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-gysvemjtanvhkreiypolhumiocep/WowazaTabs_Prefix.pch.gch
+t2
+s0
+
+NWowazaTabs-Info.plist
+c000000004D8B09AA00000000000005A3
+t1300957610
+s1443
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/FirstViewController.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/Reachability.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/Reachability.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/SecondView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/ThirdView.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/WowazaTabsAppDelegate.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/WowazaTabsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/XPathQuery.o "/Proekti/Kringvarp Versions/Kringvarp/Classes/XPathQuery.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WowazaTabs.build/Release-iphonesimulator/WowazaTabs.build/Objects-normal/i386/main.o "/Proekti/Kringvarp Versions/Kringvarp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/SecondView.xib"
+r0
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/Classes/ThirdView.xib"
+r0
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/FirstView.xib"
+r0
+
+CCompileXIB "/Proekti/Kringvarp Versions/Kringvarp/MainWindow.xib"
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/07-map-marker.png 07-map-marker.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/194-note-2.png 194-note-2.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/45-movie-1.png 45-movie-1.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/Background.png Background.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/Default.png Default.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/Icon.png Icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/ThirdView.png ThirdView.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/globiLogo.png globiLogo.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/globiLogo_small.png globiLogo_small.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/iTunesArtwork iTunesArtwork
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/icon_114x114.png icon_114x114.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/icon_512x512.png icon_512x512.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/info_20.png info_20.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/info_30.png info_30.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/info_60.png info_60.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/navigationBackground.png navigationBackground.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/nowPlayingBG.png nowPlayingBG.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/pause.png pause.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/play.png play.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/play_hi.png play_hi.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/slideBackground.png slideBackground.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/soundMax.png soundMax.png
+r0
+
+CCpResource build/Release-iphonesimulator/Kringvarp.app/soundMin.png soundMin.png
+r0
+
+CGenerateDSYMFile "/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app.dSYM" "/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Kringvarp"
+r0
+
+CLd "/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Kringvarp" normal i386
+r0
+
+CProcessInfoPlistFile "/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app/Info.plist" WowazaTabs-Info.plist
+r0
+
+CProcessPCH /var/folders/hC/hCeu+okYF6Oot8kTjTb4OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WowazaTabs_Prefix-gysvemjtanvhkreiypolhumiocep/WowazaTabs_Prefix.pch.gch WowazaTabs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Proekti/Kringvarp Versions/Kringvarp/build/Release-iphonesimulator/Kringvarp.app"
+r0
+
